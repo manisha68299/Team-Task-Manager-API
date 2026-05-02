@@ -272,12 +272,4 @@ openssl rand -hex 32
 | Aggregate DB queries (`GROUP BY`) | `tasks.py` → `get_my_task_stats` |
 | Route ordering (static before param) | `tasks.py` → `/stats` before `/{id}` |
 
----
 
-## 📝 License
-
-MIT — free to use, modify, and learn from.
-
----
-
-<p align="center">Built to learn FastAPI the real way — with a real problem.</p>
